@@ -1,0 +1,33 @@
+.border{
+    border:2px solid red;
+    margin:3px;
+}
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.item-center{
+    align-items: center;
+}
+.mg-1{
+    margin:5px;
+}
+.p1{
+    padding: 7px;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.bg-grey{
+    background-color:rgb(31 31 31);
+}
+.rounded{
+    border-radius: 10px;
+}
+.invert{
+   filter: invert(1);
+}
